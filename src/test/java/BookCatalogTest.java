@@ -25,20 +25,25 @@ public class BookCatalogTest {
 
     //G
     @Test
-    public void testFindBook() {
-
+    public void testFindBook() throws BookNotFoundException {
+    bc.addBook(book1);
+    Book foundBook = bc.findBook("Learning Java");
+    assertEquals(book1, foundBook);
     }
 
     //G
     @Test
-    public void testFindBookIgnoringCase() {
-
+    public void testFindBookIgnoringCase() throws BookNotFoundException {
+    bc.addBook(book1);
+    Book foundBook = bc.findBook("LEARNING JAVA");
+    assertEquals(book1, foundBook);
     }
 
     //G
     @Test
     public void testFindBookWithExtraSpaces() {
-
+    bc.addBook(book1);
+    
     }
 
     //VG
