@@ -1,0 +1,49 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'/mnt/c/Users/Emelie/IdeaProjects/library/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/mnt/c/Users/Emelie/IdeaProjects/library/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'library 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'library 1.0-SNAPSHOT API'
+models
+ui
+utilities
+/mnt/c/Users/Emelie/IdeaProjects/library/src/main/java = 1763561843330
+/mnt/c/Users/Emelie/IdeaProjects/library/target/site/apidocs/allclasses-index.html = 1763728971124
+/mnt/c/Users/Emelie/IdeaProjects/library/target/site/apidocs/allpackages-index.html = 1763728971131
+/mnt/c/Users/Emelie/IdeaProjects/library/target/site/apidocs/copy.svg = 1763728971226
+/mnt/c/Users/Emelie/IdeaProjects/library/target/site/apidocs/element-list = 1763728970739
+/mnt/c/Users/Emelie/IdeaProjects/library/target/site/apidocs/help-doc.html = 1763728971206
+/mnt/c/Users/Emelie/IdeaProjects/library/target/site/apidocs/index-all.html = 1763728971184
+/mnt/c/Users/Emelie/IdeaProjects/library/target/site/apidocs/index.html = 1763728971095
+/mnt/c/Users/Emelie/IdeaProjects/library/target/site/apidocs/link.svg = 1763728971231
+/mnt/c/Users/Emelie/IdeaProjects/library/target/site/apidocs/member-search-index.js = 1763728971149
+/mnt/c/Users/Emelie/IdeaProjects/library/target/site/apidocs/module-search-index.js = 1763728971135
+/mnt/c/Users/Emelie/IdeaProjects/library/target/site/apidocs/overview-summary.html = 1763728971197
+/mnt/c/Users/Emelie/IdeaProjects/library/target/site/apidocs/overview-tree.html = 1763728971088
+/mnt/c/Users/Emelie/IdeaProjects/library/target/site/apidocs/package-search-index.js = 1763728971140
+/mnt/c/Users/Emelie/IdeaProjects/library/target/site/apidocs/script.js = 1763728971220
+/mnt/c/Users/Emelie/IdeaProjects/library/target/site/apidocs/search-page.js = 1763728971244
+/mnt/c/Users/Emelie/IdeaProjects/library/target/site/apidocs/search.html = 1763728971190
+/mnt/c/Users/Emelie/IdeaProjects/library/target/site/apidocs/search.js = 1763728971239
+/mnt/c/Users/Emelie/IdeaProjects/library/target/site/apidocs/serialized-form.html = 1763728970863
+/mnt/c/Users/Emelie/IdeaProjects/library/target/site/apidocs/stylesheet.css = 1763728971214
+/mnt/c/Users/Emelie/IdeaProjects/library/target/site/apidocs/tag-search-index.js = 1763728971153
+/mnt/c/Users/Emelie/IdeaProjects/library/target/site/apidocs/type-search-index.js = 1763728971144
