@@ -1,5 +1,8 @@
 import static org.junit.jupiter.api.Assertions.*;
 
+import models.Book;
+import models.BookCatalog;
+import models.BookNotFoundException;
 import org.junit.jupiter.api.Test;
 
 public class BookCatalogTest {
@@ -16,7 +19,8 @@ public class BookCatalogTest {
     //G
     @Test
     public void testAddABook() {
-
+    bc.addBook(book1);
+    assertEquals(book1, bc.getBookArray()[0], "Book should be at index 0");
     }
 
     //G
