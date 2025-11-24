@@ -1,0 +1,27 @@
+Maven Goals som använts:
+
+compile
+Kompilerar källkoden i src/main/java och placerar .class-filer i target/classes.
+
+clean
+Tar bort alla genererade filer i target/, inkl kompilerade class-filer.
+Detta rensar projektet inför en ny build.
+
+test-compile
+Kompilerar testkoden och placerar .class-filerna i target/test-classes.
+(test-compile kör inte testerna, utan kompilerar bara.)
+
+javadoc:javadoc
+Genererar projektets Javadoc och placerar den i target/site/apidocs.
+
+package
+Paketerar projektet genom att skapa en JAR-fil.
+
+test
+Kör alla enhetstester i src/test/java med JUnit.
+
+site
+Genererar en webbplats, en site, som innehåller dokumentation som exempelvis
+testrapporter och vilka plugins som använts i projektet.
+
+
